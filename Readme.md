@@ -44,8 +44,8 @@ For the working directory just locate the folder by clicking the 3 dots `...` . 
 
 6. In this part determine the FPGA device model you will be using. This is important specially when it will be implemented using FPGA board.
 <p align="center">
-  <img width="396" height="340" alt="Screenshot 2026-07-07 135812" src="https://github.com/user-attachments/assets/0cd6480b-864d-40ee-832c-643b88b8bd55" />
-</p>f
+ <img width="605" height="456" alt="Screenshot 2026-07-07 140357" src="https://github.com/user-attachments/assets/57a924b0-3005-4a20-b217-279fccb91b0d" />
+</p>
 
 
 
