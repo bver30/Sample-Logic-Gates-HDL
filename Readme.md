@@ -26,7 +26,11 @@ To create the file please follow the steps below
 </p>
 
 3. A window will appear and then click `Next`
-![image alt]()
+<p align="center">
+<img width="396" height="341" alt="Screenshot 2026-07-07 134748" src="https://github.com/user-attachments/assets/aba73484-ab97-42bf-9588-c0b2dfef84ba" />
+</p>
+
+
 
 
 
