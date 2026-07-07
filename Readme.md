@@ -17,5 +17,12 @@ Make sure to install the correct operating system based on your device. After in
 ## Creating File 
 To create the file please follow the steps below
 
-1. Open the `Quartus Prime Lite` application then click `file`
+1. Open the `Quartus Prime Lite` application then click `file` then select `New Project Wizard`
+![image alt](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/b48c001dd277285ea22afd373b0d98ee0016f082/image2.png)
 ![image alt]()
+
+2. 
+
+
+
+
