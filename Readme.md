@@ -30,7 +30,7 @@ To create the file please follow the steps below
 <img width="396" height="341" alt="Screenshot 2026-07-07 134748" src="https://github.com/user-attachments/assets/aba73484-ab97-42bf-9588-c0b2dfef84ba" />
 </p>
 
-4. After that you will create your own directory. Just create a folder, this is where the simulation files, top and testbench file, etc goes.
+4. After that, you will create your own directory. Just create a folder; this is where the simulation files, top and testbench files, etc., go
 <p align="center">
 <img width="400" height="343" alt="Screenshot 2026-07-07 135758" src="https://github.com/user-attachments/assets/df839bf8-02fe-45d0-9163-fe3066b0c706" />
 </p>
