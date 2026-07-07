@@ -14,4 +14,8 @@ For those who didn't have yet, download using their official website [Quartus Pr
 Make sure to install the correct operating system based on your device. After installing, open the application. Congrats!! you can now try and create your project using verilog
 
 
-## Creating file 
+## Creating File 
+To create the file please follow the steps below
+
+1. Open the `Quartus Prime Lite` application then click `file`
+![image alt]()
