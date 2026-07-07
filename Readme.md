@@ -21,8 +21,8 @@ To create the file please follow the steps below
 ![image alt](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/b48c001dd277285ea22afd373b0d98ee0016f082/image2.png)
 ![image alt]()
 
-2. 
-
+2. A window will appear and then click `Next`
+![image alt]()
 
 
 
