@@ -10,6 +10,7 @@
 
 For those who didn't have yet, download using their official website [Quartus Prime Lite](https://www.altera.com/downloads/fpga-development-tools/quartus-prime-lite-edition-design-software-version-20-1-windows)
 ![Quartus Prime Lite](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/5dcb1e7165add5a4875dbaafd353b21e4c56b219/image.png)
+
 Make sure to install the correct operating system based on your device. After installation open the application. Congrats!! you can now try and create your project using verilog
 
 
@@ -17,6 +18,7 @@ Make sure to install the correct operating system based on your device. After in
 To create the file please follow the steps below
 
 1. Open the `Quartus Prime Lite` application then click `file` then select `New Project Wizard`
+
 ![image alt](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/b48c001dd277285ea22afd373b0d98ee0016f082/image2.png)
 <p align="center">
   <img src="https://github.com/bver30/Sample-Logic-Gates-HDL/blob/a7aa08ec7891c7e4158023ec6fd3c34737779b3b/image3.png" />
