@@ -20,7 +20,11 @@ To create the file please follow the steps below
 ![image alt](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/b48c001dd277285ea22afd373b0d98ee0016f082/image2.png)
 ![image alt](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/a7aa08ec7891c7e4158023ec6fd3c34737779b3b/image3.png)
 
-2. A window will appear and then click `Next`
+<p align="center">
+  <img src="https://github.com/bver30/Sample-Logic-Gates-HDL/blob/a7aa08ec7891c7e4158023ec6fd3c34737779b3b/image3.png" />
+</p>
+
+3. A window will appear and then click `Next`
 ![image alt]()
 
 
