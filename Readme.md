@@ -4,6 +4,7 @@
 * [Installation](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#installation-of-quartus-prime-lite-edition-version-201)
 * [Creating New Projecct Wizard](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#creating-new-project-wizard)
 * [Starting New Verilog HDL File](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#starting-new-verilog-hdl-file)
+* [Testbench Setup](https://github.com/bver30/Sample-Logic-Gates-HDL/edit/main/Readme.md#testbench-setup)
 
 
 ## Installation of Quartus Prime Lite Edition version (20.1)
@@ -81,7 +82,10 @@ If you do not have existing top module or testbench file you can create it from 
 <p align="center">
 <img width="959" height="502" alt="Screenshot 2026-07-08 143922" src="https://github.com/user-attachments/assets/f3e438fc-73ab-451e-9f24-7299e9ed728e" />  </p>
 
+## Testbench Setup 
+The testbench file is not included automatically. You must manually add it to the simulation settings so that it will be compiled. To do this, click `Assignments` then `Settings` then click the `Simulations`
 
+<p align="center"> <img width="561" height="464" alt="Screenshot 2026-07-07 150944" src="https://github.com/user-attachments/assets/8f5edc78-36a6-4469-9277-a517b8894c6f" /> </p>
 
 
 
