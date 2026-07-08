@@ -40,6 +40,11 @@ To create the file please follow the steps below
 <p align="center">
   <img width="396" height="340" alt="Screenshot 2026-07-07 135812" src="https://github.com/user-attachments/assets/0cd6480b-864d-40ee-832c-643b88b8bd55" />
 </p>
+   
+7.
+  <p align="center"> <img width="397" height="341" alt="Screenshot 2026-07-08 140155" src="https://github.com/user-attachments/assets/267c225a-c669-47f3-88df-531b46dfa62a" /> </p>
+
+
 
 6. In this part determine the FPGA device model you will be using. This is important specially when it will be implemented using FPGA board. After that click `Next`
 <p align="center">
