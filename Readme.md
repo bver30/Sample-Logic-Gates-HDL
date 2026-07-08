@@ -2,7 +2,7 @@
 
   ## Table of Contents
 * [Installation](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#installation-of-quartus-prime-lite-edition-version-201)
-* [Creating File](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#creating-file)
+* [Creating New Projecct Wizard](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#creating-file)
 
 
 ## Installation of Quartus Prime Lite Edition version (20.1)
@@ -15,7 +15,7 @@ For those who didn't have yet, download using their official website [Quartus Pr
 Make sure to install the correct operating system based on your device. After installation open the application. Congrats!! you can now try and create your project using verilog
 
 
-## Creating File 
+## Creating New Project Wizard
 To create the file please follow the steps below
 
 1. Open the `Quartus Prime Lite` application then click `file` then select `New Project Wizard`
