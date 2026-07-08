@@ -66,13 +66,22 @@ To create the file please follow the steps below
 
 ## Starting New Verilog HDL File
 
-If you do not have existing top module or testbench file you can create it from scratch, just follow this steps. This is the main interface of the Quartus Prime Lite Edition version 20.1. To create new file, click `file` then `New...`. You can also use the shortcut `CRTL + N`
+If you do not have existing top module or testbench file you can create it from scratch, just follow this steps. 
+
+1. This is the main interface of the Quartus Prime Lite Edition version 20.1. To create new file, click `file` then `New...`. You can also use the shortcut `CRTL + N`
 <p align="center"> <img width="959" height="504" alt="Screenshot 2026-07-08 142314" src="https://github.com/user-attachments/assets/fb52122b-a1ef-43fe-8671-5008eac9c48b" /> </p>
 
-After that you can see different types of design files that you can create. But in this simple project we can select `Verilog HDL File ` then click `OK`
+2. After that you can see different types of design files that you can create. But in this simple project we can select `Verilog HDL File ` then click `OK`
 
 <p align="center"> <img width="188" height="241" alt="Screenshot 2026-07-07 140637" src="https://github.com/user-attachments/assets/ef9fde8e-3ad6-48d5-a970-df17050afcdb" />
  </p>
+
+3. You now have a blank file where you can write your verilog code.
+>**DO NOT FORGET TO SAVE YOUR FILE TO AVOID LOSSING ALL YOUR PROGRESS**
+<p align="center">
+<img width="959" height="502" alt="Screenshot 2026-07-08 143922" src="https://github.com/user-attachments/assets/f3e438fc-73ab-451e-9f24-7299e9ed728e" />  </p>
+
+
 
 
 
