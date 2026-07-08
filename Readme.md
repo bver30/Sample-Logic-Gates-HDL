@@ -3,6 +3,7 @@
   ## Table of Contents
 * [Installation](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#installation-of-quartus-prime-lite-edition-version-201)
 * [Creating New Projecct Wizard](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#creating-new-project-wizard)
+* Starting New Verilog HDL File
 
 
 ## Installation of Quartus Prime Lite Edition version (20.1)
@@ -63,6 +64,7 @@ To create the file please follow the steps below
   <img width="602" height="455" alt="Screenshot 2026-07-07 140509" src="https://github.com/user-attachments/assets/82aa2514-6327-49a8-9e9f-5dd9826cae07" />
 </p>
 
+## Starting New Verilog HDL File
 
 
 
