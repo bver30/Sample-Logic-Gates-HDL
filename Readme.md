@@ -3,7 +3,7 @@
   ## Table of Contents
 * [Installation](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#installation-of-quartus-prime-lite-edition-version-201)
 * [Creating New Projecct Wizard](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#creating-new-project-wizard)
-* Starting New Verilog HDL File
+* [Starting New Verilog HDL File](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#starting-new-verilog-hdl-file)
 
 
 ## Installation of Quartus Prime Lite Edition version (20.1)
@@ -59,13 +59,17 @@ To create the file please follow the steps below
  <img width="601" height="455" alt="Screenshot 2026-07-07 140455" src="https://github.com/user-attachments/assets/43806e4b-2d41-4b32-80c2-5c62884a1c5f" />
 </p>
 
-10. When you are done click `Finish`
+10. When you are done click `Finish`.
 <p align="center">
   <img width="602" height="455" alt="Screenshot 2026-07-07 140509" src="https://github.com/user-attachments/assets/82aa2514-6327-49a8-9e9f-5dd9826cae07" />
 </p>
 
 ## Starting New Verilog HDL File
 
+If you do not have existing top module or testbench file you can create it from scratch, just follow this steps.
+
+This is the main interface of the Quartus Prime Lite Edition version 20.1. To create new file, click `file` then `New...`. You can also use the shortcut `CRTL + N`
+<p align="center"> <img width="959" height="504" alt="Screenshot 2026-07-08 142314" src="https://github.com/user-attachments/assets/fb52122b-a1ef-43fe-8671-5008eac9c48b" /> </p>
 
 
 
