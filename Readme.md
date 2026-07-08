@@ -31,6 +31,7 @@ To create the file please follow the steps below
 </p>
 
 4. After that, create your own project directory. Simply create a new folder where all your project files will be stored, including the simulation files, top module, testbench, and other related files. If you already have a working top module and testbench, you can copy and paste them into this folder for convenience. For the `Working Directory`, click the three dots `...` and locate the folder you created. Enter your desired Project Name, and leave the Top-Level Design Entity unchanged unless necessary. You may change it if you prefer, but keep in mind that it must match the name of your top-level module exactly, as it is case-sensitive.
+
 <p align="center">
 <img width="400" height="343" alt="Screenshot 2026-07-07 135758" src="https://github.com/user-attachments/assets/df839bf8-02fe-45d0-9163-fe3066b0c706" />
 </p>
