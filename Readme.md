@@ -77,7 +77,8 @@ If you do not have existing top module or testbench file you can create it from 
  </p>
 
 3. You now have a blank file where you can write your verilog code.
->**DO NOT FORGET TO SAVE YOUR FILE TO AVOID LOSSING ALL YOUR PROGRESS**
+**DO NOT FORGET TO SAVE YOUR FILE TO AVOID LOSSING ALL YOUR PROGRESS**
+
 <p align="center">
 <img width="959" height="502" alt="Screenshot 2026-07-08 143922" src="https://github.com/user-attachments/assets/f3e438fc-73ab-451e-9f24-7299e9ed728e" />  </p>
 
