@@ -52,13 +52,19 @@ To create the file please follow the steps below
  <img width="605" height="456" alt="Screenshot 2026-07-07 140357" src="https://github.com/user-attachments/assets/57a924b0-3005-4a20-b217-279fccb91b0d" />
 </p>
 
-9.For `Simulation` change its Tool Name to `ModelSim-Altera` and its format to `Verilog HDL`, then click `Next`
+9. For `Simulation` change its Tool Name to `ModelSim-Altera` and its format to `Verilog HDL`, then click `Next`
 
 <p align="center">
  <img width="601" height="455" alt="Screenshot 2026-07-07 140455" src="https://github.com/user-attachments/assets/43806e4b-2d41-4b32-80c2-5c62884a1c5f" />
 </p>
 
-10. 
+10. When you are done click `Finish`
+<p align="center">
+  <img width="602" height="455" alt="Screenshot 2026-07-07 140509" src="https://github.com/user-attachments/assets/82aa2514-6327-49a8-9e9f-5dd9826cae07" />
+</p>
+
+
+
 
 
 
