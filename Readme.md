@@ -41,7 +41,7 @@ To create the file please follow the steps below
   <img width="396" height="340" alt="Screenshot 2026-07-07 135812" src="https://github.com/user-attachments/assets/0cd6480b-864d-40ee-832c-643b88b8bd55" />
 </p>
    
-7. If you have existing top module and testbench file you may add it already by clicking `Add All`
+7. If you have existing top module and testbench file you can manually add it by clicking the three dots `...` or by clicking `Add All`
    
   <p align="center"> <img width="397" height="341" alt="Screenshot 2026-07-08 140155" src="https://github.com/user-attachments/assets/267c225a-c669-47f3-88df-531b46dfa62a" /> </p>
 
