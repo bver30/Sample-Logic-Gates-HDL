@@ -87,6 +87,13 @@ The testbench file is not included automatically. You must manually add it to th
 
 <p align="center"> <img width="561" height="464" alt="Screenshot 2026-07-07 150944" src="https://github.com/user-attachments/assets/8f5edc78-36a6-4469-9277-a517b8894c6f" /> </p>
 
+Under the Native Link Settings the default is `None`, Change it to `Compile test bench` then click the `Test Benches...`. A new window will appear, then click `New...`
+
+<p align="center">  <img width="358" height="164" alt="image" src="https://github.com/user-attachments/assets/361db830-cfb5-4d1d-80d6-02730c0c34b4" /> </p>
+
+
+
+<p align="center"> <img width="262" height="349" alt="image" src="https://github.com/user-attachments/assets/9cbd0e95-de21-423c-be44-f279ae84d0b1" /> </p>
 
 
 
