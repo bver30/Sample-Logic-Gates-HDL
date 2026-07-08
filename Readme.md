@@ -95,7 +95,10 @@ Under the Native Link Settings the default is `None`, Change it to `Compile test
 
 <p align="center"> <img width="262" height="349" alt="image" src="https://github.com/user-attachments/assets/9cbd0e95-de21-423c-be44-f279ae84d0b1" /> </p>
 
-Fill up the required `Test bench Name`, much better to just copy the file name your testbench to avoid confusion and errors. Then locate the file by clicking the `...`, after that click `Add`. Finally click `OK`
+Fill up the required `Test bench Name`, it is much better to just copy the file name of your testbench to avoid confusion and errors. Then locate the file by clicking the `...`, after that click `Add`. Finally click `OK`
+
+<p align="center"> <img width="348" height="353" alt="image" src="https://github.com/user-attachments/assets/c8cf8cb5-8ffe-42f2-8733-5bbdab6d01ec" /> </p>
+
 
 
 
