@@ -5,7 +5,7 @@
 * [Creating New Projecct Wizard](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#creating-new-project-wizard)
 * [Starting New Verilog HDL File](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#starting-new-verilog-hdl-file)
 * [Testbench Setup](https://github.com/bver30/Sample-Logic-Gates-HDL#testbench-setup)
-* [Testbench Setup](https://github.com/bver30/Sample-Logic-Gates-HDL#testbench-setup)
+* [RTL Simulation](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#rtl-simulation)
 
 
 ## Installation of Quartus Prime Lite Edition version (20.1)
