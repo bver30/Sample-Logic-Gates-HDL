@@ -1,4 +1,7 @@
-Kindly follow the steps on up to test bench setup. [Link](https://github.com/bver30/Sample-Logic-Gates-HDL#table-of-contents)
+Kindly follow the steps from creating new project wizard to RTL simulation. [Link](https://github.com/bver30/Sample-Logic-Gates-HDL#table-of-contents)
 
-After completing the steps click Tools, Run Simulation Tool, RTL Simulation
-<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/2c4e92ce-f020-443d-988f-2b529a9c2d94" />
+
+This is how your waveform should look like. Since this is a sample for inverter, the output should be opposite to the input
+
+
+<img width="959" height="499" alt="image" src="https://github.com/user-attachments/assets/9d2f7910-d198-4322-b609-7f9beadfaf3c" />
