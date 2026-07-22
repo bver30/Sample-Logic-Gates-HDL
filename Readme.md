@@ -5,6 +5,7 @@
 * [Creating New Projecct Wizard](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#creating-new-project-wizard)
 * [Starting New Verilog HDL File](https://github.com/bver30/Sample-Logic-Gates-HDL/blob/main/Readme.md#starting-new-verilog-hdl-file)
 * [Testbench Setup](https://github.com/bver30/Sample-Logic-Gates-HDL#testbench-setup)
+* [Testbench Setup](https://github.com/bver30/Sample-Logic-Gates-HDL#testbench-setup)
 
 
 ## Installation of Quartus Prime Lite Edition version (20.1)
@@ -104,8 +105,10 @@ Fill up the required `Test bench Name`, it is much better to just copy the file 
 
 
 
+## RTL Simulation
 
-
+After completing the top file and testbench you can now simulate to verify the design. Kidly make sure that it is free from any compilation errors to proceed and successfully view the wave form.
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/2c4e92ce-f020-443d-988f-2b529a9c2d94" />
 
 
 
